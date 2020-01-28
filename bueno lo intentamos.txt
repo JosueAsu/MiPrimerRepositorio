@@ -1,5 +1,6 @@
 Hola
 Este es mi primera practica usando Git
 
-
-Josué Asunción 
+Integrantes
+Josué Asunción
+Otto Guzman 
